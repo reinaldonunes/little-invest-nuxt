@@ -19,10 +19,10 @@
       <span class="flex w-full justify-center text-center leading-snug text-[36px] text-gray-900">Mais fácil que gastar dinheiro</span>
 
       <div class="mt-5 mb-5 grid sm:grid-cols-1 md:grid-cols-3 gap-10 justify-center items-center"> 
-        <section class="flex flex-col p-10 rounded-md text-center" v-for="item in benefits" :key="item.id">
-          <img :src="item.image" />
-          <span class="font-semibold text-[18px] mt-3 mb-1">{{ item.name }}</span>
-          <span>{{ item.description }}</span>
+        <section class="flex flex-col rounded-md text-center" v-for="item in benefits" :key="item.id">
+          <img :src="item.image" width="320" class="m-auto"/>
+          <span class="font-semibold text-[24px] text-gray-900 mt-3 mb-1">{{ item.name }}</span>
+          <span class="max-w-[85%] m-auto">{{ item.description }}</span>
         </section>
       </div>
     </div>
