@@ -1,42 +1,66 @@
-# Nuxt 3 Minimal Starter
+<h1 align="center"> Little Invest App </h1>
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+<p align="center">
+  Projeto prático feito em Nuxt.js 3 + Tailwind CSS como forma de prática do curso de design de interface da Origamid.
+</p>
 
-## Setup
+<br>
 
-Make sure to install the dependencies:
+<p align="center">
+  <img alt="Little Invest App" src=".github/little-invest-app.png" width="100%">
+</p>
+<br /><br />
 
-```bash
-# yarn
-yarn install
+## 🚀 Tecnologias
 
-# npm
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [Nuxt.js 3](https://nuxt.com/)
+- [Tailwind CSS](https://tailwindcss.com/)
+
+## 💻 Projeto
+
+O projeto é uma codificação do projeto de interface gráfica do curso de UI Design - Adobe XD, ofertada pela [Origamid](https://www.origamid.com/). O projeto está em constante atualização.
+
+<h1 align="center"> Setup Front-end</h1>
+
+## 🔥 Front-end
+
+Instale as dependências do projeto:
+
+```
 npm install
-
-# pnpm
-pnpm install
 ```
 
-## Development Server
+Rode a aplicação:
 
-Start the development server on `http://localhost:3000`
-
-```bash
+```
 npm run dev
 ```
 
-## Production
+ou
 
-Build the application for production:
-
-```bash
+```
 npm run build
 ```
 
-Locally preview production build:
+<br /><br /><br />
 
-```bash
-npm run preview
-```
+<h1 align="center"> Curso e Certificação</h1>
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+## 💻 Curso Adobe XD - Interface
+
+- [Acesse o curso clicando aqui](https://www.origamid.com/curso/adobe-xd/)
+  <br /><br />
+
+## 🚀 Certificado
+
+<p align="center">
+  <img alt="Adobe XD Certificate" src=".github/adobe-xd-certificate.png" width="100%">
+</p>
+
+<h4 align="center">
+ <img alt="Ubuntu Linux" src=".github/ubuntu_icon.svg" width="32px">
+  <br />
+  Feito com ♥ no Ubuntu 22.04 LTS
+</h1>
