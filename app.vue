@@ -1,10 +1,12 @@
 <script>
   import Header from '~/components/Header.vue'
+  import Footer from '~/components/Footer.vue'
 
   export default defineComponent({
     name: 'App',
     components:{
-      Header
+      Header,
+      Footer
     }
   })
 </script>
@@ -14,6 +16,7 @@
     <NuxtLayout>
       <NuxtPage />
     </NuxtLayout>
+    <Footer />
   </div>
 </template>
 <style>

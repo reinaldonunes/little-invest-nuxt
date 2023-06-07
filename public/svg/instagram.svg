@@ -1,9 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 512 512">
-<rect width="512" height="512" rx="15%" fill="#d43377"/>
-<g fill="none" stroke="#fff" stroke-width="29">
-<rect height="296" rx="78" width="296" x="108" y="108"/>
-<circle cx="256" cy="256" r="69"/>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1802_5)">
+<path d="M435.2 0H76.8C34.3845 0 0 34.3845 0 76.8V435.2C0 477.615 34.3845 512 76.8 512H435.2C477.615 512 512 477.615 512 435.2V76.8C512 34.3845 477.615 0 435.2 0Z" fill="#4455DD"/>
+<path d="M326 108H186C142.922 108 108 142.922 108 186V326C108 369.078 142.922 404 186 404H326C369.078 404 404 369.078 404 326V186C404 142.922 369.078 108 326 108Z" stroke="white" stroke-width="29"/>
+<path d="M256 325C294.108 325 325 294.108 325 256C325 217.892 294.108 187 256 187C217.892 187 187 217.892 187 256C187 294.108 217.892 325 256 325Z" stroke="white" stroke-width="29"/>
+<path d="M343 188C353.493 188 362 179.493 362 169C362 158.507 353.493 150 343 150C332.507 150 324 158.507 324 169C324 179.493 332.507 188 343 188Z" fill="white"/>
 </g>
-<circle cx="343" cy="169" fill="#fff" r="19"/>
+<defs>
+<clipPath id="clip0_1802_5">
+<rect width="512" height="512" fill="white"/>
+</clipPath>
+</defs>
 </svg>
